@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=olliethomas.olliethomas)
+
 - 🔭  I’m currently working on my PhD in Algorithmic Fairness - I use [EthicML](https://github.com/predictive-analytics-lab/EthicML) for most of my experiments.
 - 🌱  I’m currently learning about the limits of fair representations.
 - 👯  I’m looking to collaborate on research into fairness / bias problems in machine learning.
