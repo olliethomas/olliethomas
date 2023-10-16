@@ -2,11 +2,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=olliethomas.olliethomas)
 
-- 🔭  I’m currently working on my PhD in Algorithmic Fairness - I use [EthicML](https://github.com/predictive-analytics-lab/EthicML) for most of my experiments.
-- 🌱  I’m currently learning about the limits of fair representations.
-- 👯  I’m looking to collaborate on research into fairness / bias problems in machine learning.
-- 🤔  I’m looking for help with how to be more succinct :sweat_smile:
-- 💬  Ask me about Fairness, Causal Inference, Bayesian modelling
+- 🔭  I’m currently working as a Research Software Engineer, building apps and training ML models.
+- 🌱  I’m currently learning about Grids, Groups, Graphs, Geodesics, and Gauges.
+- 👯  I’m looking to collaborate on research into fairness / robustness problems in machine learning - particularly how they intersect with uncertainty.
+- 🤔  I’m looking for help with how to get more hours in the day :sweat_smile:
+- 💬  Ask me about Machine Learning, Python and solving hard problems!
 - 📫  How to reach me: You're already here!
 - 😄  Pronouns: he/him
 - ⚡  Fun fact: The dress was gold and white, there was no blue and black dress.
